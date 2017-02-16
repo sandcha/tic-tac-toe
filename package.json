@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sandcha/tic-tac-toe/issues"
   },
-  "homepage": "https://github.com/sandcha/tic-tac-toe#readme"
+  "homepage": "https://github.com/sandcha/tic-tac-toe#readme",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
 }
