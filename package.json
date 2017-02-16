@@ -4,6 +4,8 @@
   "description": "An environment using npm, webpack and babel for React.js getting started example.",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack -d --watch",
+    "build": "webpack -p",  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
